@@ -71,9 +71,9 @@ Data Handling: Pandas, NumPy
 
 Visualization: Matplotlib, Seaborn
 
-Machine Learning: Scikit-learn (Linear Regression, Logistic Regression, Decision Tree)
+Machine Learning: Scikit-learn (Used Diff Algorithms)
 
-Evaluation Metrics: Accuracy, Confusion Matrix, MAE, RMSE
+Evaluation Metrics
 
 Results & Insights
 
