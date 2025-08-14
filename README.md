@@ -5,10 +5,15 @@ Overview
 This repository contains completed tasks for the Data Science & Analytics.The projects focus on developing core data science skills,including data exploration,visualization, model building, and performance evaluation using Python:
 
 Task 1: Exploring and Visualizing a Simple Dataset-Iris Dataset
+
 Task 2: Credit Risk Prediction
+
 Task 3: Customer Churn Prediction
+
 Task 4: Predicting Insurance Claim Amounts
+
 Task 5: Personal Loan Acceptance Prediction
+
 Each task includes data preprocessing, analysis, visualization, model building, and performance evaluation, along with insights drawn from the results.
 
 Task Summaries
