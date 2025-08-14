@@ -66,13 +66,19 @@ Extracted insights about customer groups more likely to accept offers.
 Skills Developed: Data exploration, classification modeling, business insight extraction.
 
 Libraries & Tools Used
+
 Data Handling: Pandas, NumPy
+
 Visualization: Matplotlib, Seaborn
+
 Machine Learning: Scikit-learn (Linear Regression, Logistic Regression, Decision Tree)
+
 Evaluation Metrics: Accuracy, Confusion Matrix, MAE, RMSE
 
 Results & Insights
+
 Visualizations provided a clear understanding of feature distributions and relationships.
+
 Feature importance and EDA helped identify factors influencing credit risk, churn, and loan acceptance.
 
 Regression and classification models performed effectively in predicting outcomes.
