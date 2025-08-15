@@ -12,8 +12,10 @@ Task 4: Predicting Insurance Claim Amounts
 Task 5: Personal Loan Acceptance Prediction
 <br>
 Each task includes data preprocessing, analysis, visualization, model building, and performance evaluation, along with insights drawn from the results.
+
 <h2>Task Summaries</h2>
-Task 1 – Exploring and Visualizing a Simple Dataset
+
+**Task 1 – Exploring and Visualizing a Simple Dataset**
 Objective: Understand and visualize the Iris dataset.
 <br>
 Key Steps:
@@ -24,8 +26,8 @@ Key Steps:
 <br>
 •Visualized relationships between features using scatter plots, histograms, and boxplots.
 <br>
-Skills Developed: Data inspection, basic summarization, visualization using Matplotlib & Seaborn.
-Task 2 – Credit Risk Prediction
+•Skills Developed: Data inspection, basic summarization, visualization using Matplotlib & Seaborn.
+**Task 2 – Credit Risk Prediction**
 Objective: Predict whether a loan applicant will default.
 <br>
 Key Steps:
@@ -38,8 +40,8 @@ Key Steps:
 <br>
 •Evaluated model performance using accuracy and confusion matrix.
 <br>
-Skills Developed: Data cleaning, EDA, binary classification, model evaluation.
-Task 3 – Customer Churn Prediction
+•Skills Developed: Data cleaning, EDA, binary classification, model evaluation.
+**Task 3 – Customer Churn Prediction**
 Objective: Identify customers likely to leave the bank.
 <br>
 Key Steps:
@@ -52,8 +54,8 @@ Key Steps:
 <br>
 •Analyzed feature importance to identify key factors affecting churn.
 <br>
-Skills Developed: Categorical encoding, supervised classification, feature importance analysis.
-Task 4 – Predicting Insurance Claim Amounts
+•Skills Developed: Categorical encoding, supervised classification, feature importance analysis.
+**Task 4 – Predicting Insurance Claim Amounts**
 Objective: Estimate medical insurance charges.
 <br>
 Key Steps:
@@ -64,8 +66,8 @@ Key Steps:
 <br>
 •Evaluated model performance using MAE and RMSE.
 <br>
-Skills Developed: Regression modeling, feature correlation, error evaluation.
-Task 5 – Personal Loan Acceptance Prediction
+•Skills Developed: Regression modeling, feature correlation, error evaluation.
+**Task 5 – Personal Loan Acceptance Prediction**
 Objective: Predict which customers will accept a personal loan offer.
 <br>
 Key Steps:
@@ -76,7 +78,8 @@ Key Steps:
 <br>
 •Extracted insights about customer groups more likely to accept offers.
 <br>
-Skills Developed: Data exploration, classification modeling, business insight extraction.
+•Skills Developed: Data exploration, classification modeling, business insight extraction.
+
 <h2>Libraries & Tools Used</h2>
 •Data Handling: Pandas, NumPy
 <br>
@@ -86,6 +89,7 @@ Skills Developed: Data exploration, classification modeling, business insight ex
 <br>
 •Evaluation Metrics
 <br>
+
 <h2>Results & Insights</h2>
 •Visualizations provided a clear understanding of feature distributions and relationships.
 <br>
