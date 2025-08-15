@@ -27,7 +27,7 @@ Key Steps:
 <br>
 •Visualized relationships between features using scatter plots, histograms, and boxplots.
 <br>
-•Skills Developed: Data inspection, basic summarization, visualization using Matplotlib & Seaborn.
+Skills Developed: Data inspection, basic summarization, visualization using Matplotlib & Seaborn.
 
 **Task 2 – Credit Risk Prediction**
 <br>
@@ -43,7 +43,7 @@ Key Steps:
 <br>
 •Evaluated model performance using accuracy and confusion matrix.
 <br>
-•Skills Developed: Data cleaning, EDA, binary classification, model evaluation.
+Skills Developed: Data cleaning, EDA, binary classification, model evaluation.
 
 **Task 3 – Customer Churn Prediction**
 <br>
@@ -59,7 +59,7 @@ Key Steps:
 <br>
 •Analyzed feature importance to identify key factors affecting churn.
 <br>
-•Skills Developed: Categorical encoding, supervised classification, feature importance analysis.
+Skills Developed: Categorical encoding, supervised classification, feature importance analysis.
 
 **Task 4 – Predicting Insurance Claim Amounts**
 <br>
@@ -73,7 +73,7 @@ Key Steps:
 <br>
 •Evaluated model performance using MAE and RMSE.
 <br>
-•Skills Developed: Regression modeling, feature correlation, error evaluation.
+Skills Developed: Regression modeling, feature correlation, error evaluation.
 
 **Task 5 – Personal Loan Acceptance Prediction**
 <br>
@@ -87,7 +87,7 @@ Key Steps:
 <br>
 •Extracted insights about customer groups more likely to accept offers.
 <br>
-•Skills Developed: Data exploration, classification modeling, business insight extraction.
+Skills Developed: Data exploration, classification modeling, business insight extraction.
 
 <h2>Libraries & Tools Used</h2>
 •Data Handling: Pandas, NumPy
