@@ -98,6 +98,7 @@ Key Steps:
 Skills Developed: Data exploration, classification modeling, business insight extraction.
 
 <h2>Libraries & Tools Used</h2>
+<br>
 •Data Handling: Pandas, NumPy
 <br>
 •Visualization: Matplotlib, Seaborn
@@ -105,9 +106,9 @@ Skills Developed: Data exploration, classification modeling, business insight ex
 •Machine Learning: Scikit-learn (Used Diff Algorithms)
 <br>
 •Evaluation Metrics
-<br>
 
 <h2>Results & Insights</h2>
+<br>
 •Visualizations provided a clear understanding of feature distributions and relationships.
 <br>
 •Feature importance and EDA helped identify factors influencing credit risk, churn, and loan acceptance.
