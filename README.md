@@ -19,9 +19,9 @@ Each task includes data preprocessing, analysis, visualization, model building, 
 <br>
 Objective: Understand and visualize the Iris dataset.
 <br>
-Key Steps:
+Dataset: Iris dataset from scikit-learn (no CSV file required)
 <br>
-•Loaded dataset using Pandas.
+Key Steps:
 <br>
 •Explored dataset structure with pandas functions
 <br>
@@ -30,6 +30,8 @@ Key Steps:
 Skills Developed: Data inspection, basic summarization, visualization using Matplotlib & Seaborn.
 
 **Task 2 – Credit Risk Prediction**
+<br>
+Dataset: train.csv (Loan Prediction dataset from Kaggle)
 <br>
 Objective: Predict whether a loan applicant will default.
 <br>
@@ -47,6 +49,8 @@ Skills Developed: Data cleaning, EDA, binary classification, model evaluation.
 
 **Task 3 – Customer Churn Prediction**
 <br>
+Dataset: Churn_Modelling.csv
+<br>
 Objective: Identify customers likely to leave the bank.
 <br>
 Key Steps:
@@ -63,6 +67,8 @@ Skills Developed: Categorical encoding, supervised classification, feature impor
 
 **Task 4 – Predicting Insurance Claim Amounts**
 <br>
+Dataset: insurance.csv
+<br>
 Objective: Estimate medical insurance charges.
 <br>
 Key Steps:
@@ -76,6 +82,8 @@ Key Steps:
 Skills Developed: Regression modeling, feature correlation, error evaluation.
 
 **Task 5 – Personal Loan Acceptance Prediction**
+<br>
+Dataset: bank-full.csv(UCI Machine Learning Repository)
 <br>
 Objective: Predict which customers will accept a personal loan offer.
 <br>
